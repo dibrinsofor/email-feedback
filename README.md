@@ -7,7 +7,7 @@ a tool to alert you when there's an error with your code. complete with time sta
 ### why am i making it?
 i initially used a version of this code with a school project to send lecturers their daily class attendance and I decided it could be worth more so i have started to finder better ways to use it in my code to alert me of errors in live projects
 
-![png of the working script](\email.png)
+![png of the working script](https://i.ibb.co/bPd1b5y/email.png)
 <center style=color:grey;>png of the working script</center>
 
 ### want to use it?

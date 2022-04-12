@@ -1,4 +1,4 @@
-## product name - I'm still Email From the Streets
+## product name - Email auto template
 
 
 ### what is this?
@@ -32,7 +32,7 @@ PASSWORD= ""
 ```find the equivalent of these steps if you do not use gmail for your sending account```
 
 ### how it works
-idk man,,, it just sends emails
+idk man it's SMTP,,, it just sends emails
 
 #### technologies
 this was built entirely with love on an eventful day with:
